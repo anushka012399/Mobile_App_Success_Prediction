@@ -44,4 +44,4 @@ standard statistical practice, then our data is not normal. This is a more
 precise way than graphing our data to determine if our data is normal.
 Therefore, SKLearn has more useful features, but statsmodels is a good method to
 analyze your data before<br><br>
-For detailed idea about the project please check the attached pdf "Data Science Final Report" in the repository.
+For detailed idea about the project please check the attached pdf "Report Data Science Final" in the repository.
