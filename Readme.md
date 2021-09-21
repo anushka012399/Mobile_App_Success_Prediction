@@ -41,7 +41,7 @@ data.The statistics in the summary table in statsmodel are testing the
 normality of our data.<br>
 • If the Prob(Omnibus) is very small, and we took this to mean <.05 as this is
 standard statistical practice, then our data is not normal. This is a more
-precise way than graphing our data to determine if our data is normal.
+precise way than graphing our data to determine if our data is normal.<br>
 Therefore, SKLearn has more useful features, but statsmodels is a good method to
 analyze your data before<br><br>
 For detailed idea about the project please check the attached pdf "Report Data Science Final" in the repository.
