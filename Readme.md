@@ -1,4 +1,4 @@
-# Mobile App Success and Rating Prediction Based On App Features Using 
+# Mobile App Success and Rating Prediction Based On App Features 
 This was made by me during the 6th semester(2020) for Foundations of Data Science.<br>
 A Linear Regression model was built to predict the rating and success of an application based on several factors of an application.<br><br>
 ***Dataset Description***<br>
