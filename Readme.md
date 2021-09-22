@@ -1,5 +1,4 @@
 # Mobile App Success and Rating Prediction Based On App Features 
-This was made by me during the 6th semester(2020) for Foundations of Data Science.<br>
 A Linear Regression model was built to predict the rating and success of an application based on several factors of an application.<br><br>
 ***Dataset Description***<br>
 The dataset, ‘Google Play Store Apps’ was obtained from Kaggle and used for this
@@ -23,7 +22,7 @@ xi. Current Ver: Current version of the app available on Play Store<br>
 xii. Android Ver: Min required Android version<br><br>
 Dependent variable:<br>
 Rating: Overall user rating of the app<br><br>
-***Approach Used in the Report***<br>
+***Approach Used in the Project***<br>
 In this report we would be solving the problem with two methods using, Scikit -learn
 and statsmodel.<br>
 • We will start by fitting the model using SKLearn. After we fit the model, unlike
